@@ -1,6 +1,4 @@
-# INF360 - Programming in Python
 # Efe Osaghae
-# Final
 
 # This is my functions file!
 
