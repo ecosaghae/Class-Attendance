@@ -1,6 +1,4 @@
-# INF360 - Programming in Python
 # Efe Osaghae
-# Final Project
 
 # 1. List all the students in the classes
 # 2. Add students in the classes
