@@ -7,9 +7,9 @@ we are going to create a dictionary called classes.
 Remember The name of the item in the case, 'classes' is referred as the key and
 each key is separated by a colon (:) from its values which will be the students. Commas separate all the items
 """
-classes = {'Math': ['Efe', 'Uyi'],
-           'Science': ['Antonio', 'Nour', 'Efe', 'Nate'],
-           'History': ['Efe', 'Nate', 'Uyi']}
+classes = {'Math': ['Efe', 'Ava'],
+           'Science': ['Jason', 'Sarah', 'Lisa'],
+           'History': ['Efe', 'Kayla', 'Ashley']}
 
 
 # Print out class list
